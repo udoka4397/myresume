@@ -1,20 +1,21 @@
 .intro{
     background-color: rgb(253, 245, 247);
-    ;
+   padding: % ;
 }
 .image1{
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
-    margin-left: 20%;
+    margin-left: 10%;
 }
 .title{
     margin-top: 10%;
+   
 }
 .name{
     font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 300%;
 color: rgb(155, 114, 37);
-margin-bottom: 0%;
+margin-right: %;
 }
 .job{
 color: rgb(10, 10, 17);
@@ -50,11 +51,14 @@ padding: 10%;
 font-family: 'Times New Roman', Times, serif;
 text-align: justify;
 }
+.aboutimg{
+    padding: 10%;
+}
 .image2{margin-left: 10%;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
     border-bottom-right-radius: 50%;
-    margin-top: 11%;
+   
 }
 
 .myexp{
@@ -111,16 +115,100 @@ text-align: justify;
 .tech{
     color: rgb(126, 72, 11); 
     font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: 20%;
 }
-input{
-    accent-color: rgb(126, 72, 11); 
-
+progress{
+    accent-color: rgb(126, 72, 11);
+    height: 15%;
+    width: 50%;
 }
 
 .sample{
     background-color: rgb(255, 252, 241);
-    padding: 10%;    
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  margin-bottom: 2%;
+   
+        
 }
 .smplwk{
-    margin-left: 50%;
+    margin-left: 35%;
+    margin-bottom: %;
+    color: rgb(160, 100, 130);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 300%;
+}
+.img3{
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    margin-bottom: 10%;
+   
+}
+.sample1{
+    padding: 5%;
+}
+.webtitle{
+    text-align: center;
+}
+
+.comment{
+
+}
+.comment1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    padding: 5%;
+}
+
+.image3{
+    border-radius: 50%;
+   
+}
+
+.cmttext1{
+    margin-left: 25%;
+    margin-top: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cmttext2{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.commentor{
+    color: rgb(126, 72, 11);    
+}
+
+.footer{
+    
+    background-color: rgb(83, 52, 10);
+    padding: 10%;
+}
+.footerimg{
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    margin-left: 10%;
+   
+}
+.footer1{
+    color: rgb(219, 206, 186);;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10%;
+   
+}
+#Reach_Out{
+    font-size:x-large;
+}
+.fa-brands{
+    color: rgb(219, 206, 186);
+    width: 10%;
+    font-size: 300%;
+    
+}
+.social{
+    /* display: flex; */
+    ;
 }
