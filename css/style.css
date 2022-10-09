@@ -194,15 +194,19 @@ progress{
     color: rgb(219, 206, 186);;
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin-top: 10%;
-   
+    
 }
+
 #Reach_Out{
-    font-size:x-large;
+    font-size:xx-large;
+}
+.social{
+    display: flex;
+    justify-content: space-around;
 }
 .fa-brands{
     color: rgb(219, 206, 186);
     width: 10%;
-    font-size: 300%;
-    
+    font-size: 300%;   
 }
 
