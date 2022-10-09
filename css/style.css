@@ -152,9 +152,6 @@ progress{
     text-align: center;
 }
 
-.comment{
-
-}
 .comment1{
     display: flex;
     justify-content: space-between;
@@ -208,7 +205,4 @@ progress{
     font-size: 300%;
     
 }
-.social{
-    /* display: flex; */
-    ;
-}
+
