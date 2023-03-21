@@ -1,6 +1,5 @@
 .intro{
     background-color: rgb(253, 245, 247);
-   padding: % ;
 }
 .image1{
     border-top-left-radius: 50%;
@@ -15,7 +14,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 300%;
 color: rgb(155, 114, 37);
-margin-right: %;
+
 }
 .job{
 color: rgb(10, 10, 17);
@@ -25,6 +24,9 @@ text-align: justify;
 margin-left: 5%;
 margin-top: 0%;
 }
+a{text-decoration: none;
+    color: blanchedalmond;
+    background-color: rgb(33, 9, 138);}
 .reachout{
     padding-top: 2%;
     padding-bottom: 2%;
@@ -38,8 +40,9 @@ margin-top: 2%;
 margin-left: 10%;
 }
 
+
 .about{
-margin-left: %;
+
 padding: 10%;
 }
 .aboutme{
@@ -74,9 +77,6 @@ text-align: justify;
     
 }
 
-.myexpandyr{
-    
-}
 
 .current{
     display: flex;
@@ -134,7 +134,6 @@ progress{
 }
 .smplwk{
     margin-left: 35%;
-    margin-bottom: %;
     color: rgb(160, 100, 130);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 300%;
@@ -193,8 +192,7 @@ progress{
 .footer1{
     color: rgb(219, 206, 186);;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    margin-top: 10%;
-    
+    margin-top: 10%;  
 }
 
 #Reach_Out{
@@ -209,4 +207,3 @@ progress{
     width: 10%;
     font-size: 300%;   
 }
-
